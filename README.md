@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a full stack senior software engineer working on websites, backend and mobile. My main passion is learning new things, and if i build something cool or usefull i try to turn it into a OSS project. Some technologies I enjoy working with include .NET Core, razor pages, web API's (REST) and Xamarin.Forms. 
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
 <!--
 **ieuanwalker/ieuanwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
