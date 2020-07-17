@@ -98,8 +98,10 @@ I am a full stack senior software engineer working on websites, backend and mobi
 <br/>
 
 ![Ieuan Walker github stats](https://github-readme-stats.vercel.app/api?username=ieuanwalker&show_icons=true&title_color=08FDD8&icon_color=08FDD8&bg_color=171717&text_color=fff)
+
+
 <p align="center">
-Check out my repos ⬇️  
+<img height="60px" src="https://media.giphy.com/media/TK9h46Jhq4NYXbRQoM/giphy.gif" /> Check out my repos <img height="60px" src="https://media.giphy.com/media/TK9h46Jhq4NYXbRQoM/giphy.gif" />
 </p>
 
 <!--
