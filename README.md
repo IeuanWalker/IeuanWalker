@@ -59,7 +59,7 @@ I am a full stack senior software engineer working on websites, backend and mobi
   &nbsp;
   &nbsp;
   &nbsp;
-    <img  alt="Azure pipelines" height="60px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Tools-Languages/azure.png" />
+    <img  alt="Azure pipelines" height="60px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Tools-Languages/azure-pipelines.png" />
       &nbsp;
   &nbsp;
   &nbsp;
@@ -105,18 +105,3 @@ I am a full stack senior software engineer working on websites, backend and mobi
 Check out my repos 
 <img height="60px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Icons/down-arrow.gif" />
 </p>
-
-<!--
-**ieuanwalker/ieuanwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
