@@ -35,7 +35,7 @@ I am a full stack senior software engineer working on websites, backend and mobi
 <br/>
 
 <div>
-  <img align="center" alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=ieuanwalker&show_icons=true&title_color=08FDD8&icon_color=08FDD8&bg_color=171717&text_color=fff">
+  <img align="center" alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=ieuanwalker&count_private=true&include_all_commits=true&show_icons=true&title_color=08FDD8&icon_color=08FDD8&bg_color=171717&text_color=fff">
   <img align="center" alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=IeuanWalker&border=FFFFFF&sideNums=FFFFFF&theme=tokyonight_duo&background=171717&stroke=08FDD8&ring=08FDD8&fire=DD9400&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=727272&currStreakNum=FFFFFF&)](https://git.io/streak-stats">
 </div>
 
