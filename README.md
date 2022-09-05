@@ -22,6 +22,14 @@
   <a href="https://www.instagram.com/ieuan.walker">
     <img alt="Ieuan Walker | Instagram" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/instagram.png" />
   </a>
+     &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <a href="https://stackoverflow.com/users/4353708/ieuanw?tab=profile">
+    <img alt="Ieuan Walker | Stack overflow" width="44px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />
+  </a>
 </p>
 
 <br/>
