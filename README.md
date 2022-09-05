@@ -28,7 +28,7 @@
   &nbsp;
   &nbsp;
   <a href="https://stackoverflow.com/users/4353708/ieuanw?tab=profile">
-    <img alt="Ieuan Walker | Stack overflow" width="44px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" />
+    <img alt="Ieuan Walker | Stack overflow" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/stackoverflow.png" />
   </a>
 </p>
 
