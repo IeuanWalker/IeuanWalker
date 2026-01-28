@@ -1,35 +1,26 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Profile.gif"  alt="Header image" />
-</div>
+<h1 align="center">Hi 👋, I'm Ieuan</h1>
+<h3 align="center">Backend / Mobile / Frontend / C# / .NET / Azure</h3>
 <br/>
 <p align="center">
-  <a href="https://twitter.com/IeuanTWalker">
-    <img  alt="Ieuan Walker | Twitter" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/twitter.png" />
-  </a>
+  <a href="https://twitter.com/IeuanTWalker"><img alt="Ieuan Walker | Twitter" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/twitter.png" /></a>
   &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href="https://www.linkedin.com/in/ieuanwalker/">
-    <img  alt="Ieuan Walker | Linkedin" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/linkedin.png" />
-  </a>
-   &nbsp;
+  <a href="https://www.linkedin.com/in/ieuanwalker/"><img alt="Ieuan Walker | Linkedin" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/linkedin.png" /></a>
   &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href="https://www.instagram.com/ieuan.walker">
-    <img alt="Ieuan Walker | Instagram" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/instagram.png" />
-  </a>
-     &nbsp;
+  &nbsp;
+  <a href="https://www.instagram.com/ieuan.walker"><img alt="Ieuan Walker | Instagram" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/instagram.png" /></a>
   &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href="https://stackoverflow.com/users/4353708/ieuanw?tab=profile">
-    <img alt="Ieuan Walker | Stack overflow" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/stackoverflow.png" />
-  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/4353708/ieuanw?tab=profile"><img alt="Ieuan Walker | Stack overflow" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/stackoverflow.png" /></a>
 </p>
 
 <br/>
@@ -46,3 +37,24 @@ I am a full-stack senior software engineer working on websites, backend and mobi
 | [Maui.Breadcrumb](https://github.com/IeuanWalker/Maui.Breadcrumb)                                   | This is a breadcrumb navigation control that is completely automatic and uses the Navigation stack and page titles to generate the breadcrumbs. It's also 100% accessible by default                                        | [![GitHub Repo stars](https://img.shields.io/github/stars/IeuanWalker/Maui.Breadcrumb?style=flat&color=yellow)](https://github.com/IeuanWalker/Maui.Breadcrumb)                                   | [![Nuget](https://img.shields.io/nuget/v/IeuanWalker.Maui.Breadcrumb)](https://www.nuget.org/packages/IeuanWalker.Maui.Breadcrumb)                                                                                                                                             | [![Nuget](https://img.shields.io/nuget/dt/IeuanWalker.Maui.Breadcrumb)](https://www.nuget.org/packages/IeuanWalker.Maui.Breadcrumb)  | 
 | [Maui.Switch](https://github.com/IeuanWalker/Maui.Switch)                                           | Simple control to create custom switches in .NET MAUI                                                                                                                                                                       | [![GitHub Repo stars](https://img.shields.io/github/stars/IeuanWalker/Maui.Switch?style=flat&color=yellow)](https://github.com/IeuanWalker/Maui.Switch)                                           | [![Nuget](https://img.shields.io/nuget/v/IeuanWalker.Maui.Switchs)](https://www.nuget.org/packages/IeuanWalker.Maui.Switch)                                                                                                                                                    | [![Nuget](https://img.shields.io/nuget/dt/IeuanWalker.Maui.Switch)](https://www.nuget.org/packages/IeuanWalker.Maui.Switch)  | 
 | [Maui.StateButton](https://github.com/IeuanWalker/Maui.StateButton)                                 | With this control, you are able to create any style of button. This is possible as it acts as a wrapper to your XAML and provides you the events/ commands and properties to bind to. It's also 100% accessible by default  | [![GitHub Repo stars](https://img.shields.io/github/stars/IeuanWalker/Maui.StateButton?style=flat&color=yellow)](https://github.com/IeuanWalker/Maui.StateButton)                                 | [![Nuget](https://img.shields.io/nuget/v/IeuanWalker.Maui.StateButton)](https://www.nuget.org/packages/IeuanWalker.Maui.StateButton)                                                                                                                                           | [![Nuget](https://img.shields.io/nuget/dt/IeuanWalker.Maui.StateButton)](https://www.nuget.org/packages/IeuanWalker.Maui.StateButton) | 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/></a>
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ieuanwalker&show_icons=true&locale=en" alt="ieuanwalker" /></p>
+
