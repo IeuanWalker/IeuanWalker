@@ -59,8 +59,8 @@ Below are the open source projects I actively maintain, mostly focused on API de
 
 ## 📊 GitHub Activity
 Primarily open source maintenance, tooling, and long-lived libraries rather than throwaway demos.
-| | |
-| -- | -- |
-| ![](https://github-readme-stats.vercel.app/api?username=IeuanWalker&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=IeuanWalker&theme=dark&hide_border=false) |
+
+![](https://github-readme-stats.vercel.app/api?username=IeuanWalker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=IeuanWalker&theme=dark&hide_border=false)
 
 ---
