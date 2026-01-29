@@ -51,7 +51,7 @@ I am a full-stack senior software engineer working on websites, backend and mobi
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Azure Portal](https://img.shields.io/badge/azure%20portal-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IeuanWalker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
