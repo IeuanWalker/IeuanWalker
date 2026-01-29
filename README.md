@@ -25,11 +25,12 @@
 
 <br/>
 
-I'm a senior software engineer with a strong focus on **.NET, mobile, API design, and developer experience**. I enjoy building libraries and tools that remove boilerplate code and unlock the technology's potential.
+I’m a senior software engineer with a strong focus on **.NET, mobile, API design, and developer experience**. I enjoy building libraries and tools that remove boilerplate and make systems easier to work with over time.
 
-If I build something useful and reusable, I try to turn it into an **open-source project**. Lately, that’s meant a lot of **source generators**, **Minimal APIs**, and **.NET MAUI controls**.
+If I build something useful and reusable, I turn it into an **open-source project**. Lately, that’s meant a lot of **source generators**, **Minimal APIs**, and **.NET MAUI controls**.
 
-### My current and actively maintained OSS projects -
+### 🛠️ Open-source projects
+Below are the open-source projects I actively maintain, mostly focused on API design, tooling, and developer experience in the .NET ecosystem.
 | Project | Description | | | |
 | --- | --- | --- | --- | --- |
 | [MinimalApi.Endpoints](https://github.com/IeuanWalker/MinimalApi.Endpoints)                         | A source generator for .NET minimal api to make building REST API's easier for .NET 10 and newer                                                                                                                            | [![GitHub Repo stars](https://img.shields.io/github/stars/IeuanWalker/MinimalApi.Endpoints?style=for-the-badge&color=yellow)](https://github.com/IeuanWalker/MinimalApi.Endpoints)                         | [![Nuget](https://img.shields.io/nuget/v/IeuanWalker.MinimalApi.Endpoints?style=for-the-badge)](https://www.nuget.org/packages/IeuanWalker.MinimalApi.Endpoints)                                                                                                                                   | [![Nuget](https://img.shields.io/nuget/dt/IeuanWalker.MinimalApi.Endpoints?style=for-the-badge)](https://www.nuget.org/packages/IeuanWalker.MinimalApi.Endpoints) |
