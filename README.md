@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ieuan</h1>
-<h3 align="center">Full-stack / Backend / Mobile / Frontend / C# / .NET / Azure</h3>
+<h3 align="center">I build .NET tools and libraries so future-me suffers less</h3>
 <br/>
 <p align="center">
   <a href="https://twitter.com/IeuanTWalker"><img alt="Ieuan Walker | Twitter" width="44px" src="https://raw.githubusercontent.com/IeuanWalker/IeuanWalker/master/Images/Social/twitter.png" /></a>
@@ -24,7 +24,10 @@
 </p>
 
 <br/>
-I am a full-stack senior software engineer working on websites, backend and mobile. My main passion is learning new things, and if I build something cool or usefull I try to turn it into an OSS project. Some of the technologies I enjoy working with include .NET, .NET MAUI, Minimal APIs, Blazor, and razor pages.
+
+I'm a senior software engineer with a strong focus on **.NET, mobile, API design, and developer experience**. I enjoy building libraries and tools that remove boilerplate code and unlock the technology's potential.
+
+If I build something useful and reusable, I try to turn it into an **open-source project**. Lately, that’s meant a lot of **source generators**, **Minimal APIs**, and **.NET MAUI controls**.
 
 ### My current and actively maintained OSS projects -
 | Project | Description | | | |
@@ -38,7 +41,7 @@ I am a full-stack senior software engineer working on websites, backend and mobi
 | [Maui.Switch](https://github.com/IeuanWalker/Maui.Switch)                                           | Simple control to create custom switches in .NET MAUI                                                                                                                                                                       | [![GitHub Repo stars](https://img.shields.io/github/stars/IeuanWalker/Maui.Switch?style=for-the-badge&color=yellow)](https://github.com/IeuanWalker/Maui.Switch)                                           | [![Nuget](https://img.shields.io/nuget/v/IeuanWalker.Maui.Switchs?style=for-the-badge)](https://www.nuget.org/packages/IeuanWalker.Maui.Switch)                                                                                                                                                    | [![Nuget](https://img.shields.io/nuget/dt/IeuanWalker.Maui.Switch?style=for-the-badge)](https://www.nuget.org/packages/IeuanWalker.Maui.Switch)  | 
 | [Maui.StateButton](https://github.com/IeuanWalker/Maui.StateButton)                                 | With this control, you are able to create any style of button. This is possible as it acts as a wrapper to your XAML and provides you the events/ commands and properties to bind to. It's also 100% accessible by default  | [![GitHub Repo stars](https://img.shields.io/github/stars/IeuanWalker/Maui.StateButton?style=for-the-badge&color=yellow)](https://github.com/IeuanWalker/Maui.StateButton)                                 | [![Nuget](https://img.shields.io/nuget/v/IeuanWalker.Maui.StateButton?style=for-the-badge)](https://www.nuget.org/packages/IeuanWalker.Maui.StateButton)                                                                                                                                           | [![Nuget](https://img.shields.io/nuget/dt/IeuanWalker.Maui.StateButton?style=for-the-badge)](https://www.nuget.org/packages/IeuanWalker.Maui.StateButton) | 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MAUI](https://img.shields.io/badge/-MAUI-330EBA?style=for-the-badge)
@@ -53,7 +56,8 @@ I am a full-stack senior software engineer working on websites, backend and mobi
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Azure Portal](https://img.shields.io/badge/azure%20portal-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Activity
+Primarily open-source maintenance, tooling, and long-lived libraries rather than throwaway demos.
 ![](https://github-readme-stats.vercel.app/api?username=IeuanWalker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=IeuanWalker&theme=dark&hide_border=false)
 
